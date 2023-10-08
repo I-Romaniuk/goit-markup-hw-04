@@ -449,9 +449,9 @@ a {
 }
 .footer-soc-icon {
   display: flex;
-  /* justify-content: center; */
+  justify-content: center;
   gap: 16px;
-  /* padding: 0; */
+  padding: 0;
   fill: #f4f4fd;
 }
 .footer-soc-icon-li {
